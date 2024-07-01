@@ -1,0 +1,180 @@
+﻿body {
+    margin:20px 0;
+    padding:0;
+    background:#f5f5f5;
+    font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+    font-size: 11px;
+}
+
+.containerTable {
+	background: #FFF;
+	padding: 15px;
+	border: 1px solid #d5d5d5;
+	margin: 0 auto;
+	width: 790px;
+}
+.internalTable {
+	padding: 0;
+	margin: 0 auto;
+}
+.containerMain {
+    clear: both;
+    z-index: 1;
+}
+
+div.upstrademarkinfo {
+  /*display:block;
+  position:absolute;
+  bottom:0;*/
+  text-align: center;
+  width: 100%;
+}
+
+p {
+    font-size: 10px;
+    text-align: center;
+}
+
+div.toggledebugtext {
+  display:block;
+  position:absolute;
+  bottom:0;
+  float: left;
+}
+
+.btn {
+	background: #333;
+	border: none;
+	color: #FFF;
+	padding: 4px;
+}
+.btn:hover {
+	background: #CCC;
+	color: #333;
+}
+
+.label {
+	font-weight: bold;
+	padding: 4px 10px;
+	text-align: right;
+}
+.input {
+    border: 1px solid #d5d5d5;
+    background: #f5f5f5;
+    padding: 3px;
+    width: 200px;
+	font-size:11px;
+}
+.input-short {
+    border: 1px solid #d5d5d5;
+    background: #f5f5f5;
+    padding: 3px;
+    width: 50px;
+	font-size:11px;
+}
+#btnChangePlant {
+	color: #a83333;
+	text-decoration: none;
+	font-size: 11px;
+}
+.shipto {
+    padding: 20px 0 5px 0;
+    color: #0063a5;
+    font-weight: bold;
+    text-align: center;
+}
+.shipGrid {   
+    width: 100%;   
+    background-color: #FFF;   
+    margin: 5px 0 10px 0;   
+} 
+.shipGrid td {   
+    padding: 5px 10px 5px 5px;     
+    color: #333;   
+}  
+.shipGrid th {   
+    padding: 4px 10px 4px 5px;   
+    color: #fff;   
+    background: #424242;    
+    font-size: 0.9em; 
+    text-align: left;  
+}  
+.alt {
+    background-color: #e8e8e8;
+}  
+.links {
+    padding: 5px;
+    vertical-align: top;
+    line-height: 1.3em;
+}
+.links a {
+	color: #a83333;
+	text-decoration: none;
+	font-size: 11px;
+}
+.links a:hover {
+	text-decoration: underline;
+}
+.chooseAddress {
+    text-align: left;
+    padding: 5px 15px;
+    line-height: 1.3em;
+    width: 510px;
+}
+a {
+	color: #a83333;
+	text-decoration: none;
+	font-size: 11px;
+}
+a:hover {
+	text-decoration: underline;
+}
+.HelpSection 
+{
+    font-size: 16px;
+    font-weight: bold;
+    color: #a83333;
+	padding: 12px 10px;
+	text-align: left;
+}
+.HelpTopic 
+{
+    font-size: 12px;
+    font-weight: bold;
+	padding: 6px 20px;
+	text-align: left;
+}
+.HelpDetail 
+{
+    font-size: 10px;
+	padding: 2px 30px;
+	text-align: left;
+}
+.HelpBackLink
+{
+    padding: 6px 0px 0px 0px;
+	text-align: right;
+}
+h2 {
+	margin:0;
+	padding:0;
+}
+h3 {
+	margin:0;
+	padding:0;
+}
+.analysisGrid th {   
+    padding: 4px 10px 4px 5px;   
+    color: #fff;   
+    background: #424242;    
+    font-size: 0.9em; 
+    text-align: left;     
+}  
+.analysisHeader a
+{
+    padding: 4px 10px 4px 5px;   
+    color: #fff;   
+    background: #424242;    
+    font-size: 0.9em; 
+    text-align: left; 
+}
